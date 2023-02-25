@@ -97,152 +97,111 @@ const Header = () => {
 
 const restrautList =  [
     {
-      "type": "restaurant",
-      "data": {
+        "type": "restaurant",
+        "data": {
         "type": "F",
-        "id": "195656",
-        "name": "Anand food corner",
-        "uuid": "1618a26f-e07c-4b10-aae2-4dd4fa901856",
+        "id": "601145",
+        "name": "MANDARIN CHINA TOWN",
+        "uuid": "c0896a55-ee8e-4c94-b1f7-80d1f3f1f6bc",
         "city": "7",
         "area": "Lake Town",
-        "totalRatingsString": "100+ ratings",
-        "cloudinaryImageId": "oshcwpjbcx3rix2qytz3",
+        "totalRatingsString": "50+ ratings",
+        "cloudinaryImageId": "kcn6k0fck8cnz6ud7jg2",
         "cuisines": [
-          "Indian",
-          "Snacks",
-          "North Indian"
+        "Chinese",
+        "North Indian"
         ],
         "tags": [],
-        "costForTwo": 25000,
-        "costForTwoString": "₹250 FOR TWO",
-        "deliveryTime": 28,
-        "minDeliveryTime": 28,
-        "maxDeliveryTime": 28,
-        "slaString": "28 MINS",
-        "lastMileTravel": 2.299999952316284,
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "slaString": "29 MINS",
+        "lastMileTravel": 1.2000000476837158,
         "slugs": {
-          "restaurant": "anand-food-corner-lake-town-lake-town",
-          "city": "kolkata"
+        "restaurant": "mandarin-china-town-lake-town-lake-town",
+        "city": "kolkata"
         },
         "cityState": "7",
-        "address": "135, Jessore Road, Lake Town, Kolkata, West Bengal, India",
-        "locality": "Jessore Road",
-        "parentId": 32757,
+        "address": "Urbi Apartment, 389/1, Dum Dum Park, South Dumdum, West Bengal 700055, India",
+        "locality": "Urbi Apartment",
+        "parentId": 358657,
         "unserviceable": false,
-        "veg": true,
+        "veg": false,
         "select": false,
         "favorite": false,
         "tradeCampaignHeaders": [],
-        "aggregatedDiscountInfo": {
-          "header": "10% off",
-          "shortDescriptionList": [
-            {
-              "meta": "10% off | Use TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "10% off up to ₹40 | Use code TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
-        },
-        "aggregatedDiscountInfoV2": {
-          "header": "10% OFF",
-          "shortDescriptionList": [
-            {
-              "meta": "Use TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "10% off up to ₹40 | Use code TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
-        },
         "ribbon": [
-          {
-            "type": "PROMOTED"
-          }
+        {
+        "type": "PROMOTED"
+        }
         ],
         "chain": [],
         "feeDetails": {
-          "fees": [
-            {
-              "name": "time",
-              "fee": 0,
-              "message": ""
-            },
-            {
-              "name": "distance",
-              "fee": 3200,
-              "message": ""
-            },
-            {
-              "name": "special",
-              "fee": 0,
-              "message": ""
-            }
-          ],
-          "totalFees": 3200,
-          "message": "",
-          "title": "Delivery Charge",
-          "amount": "3200",
-          "icon": ""
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
         },
         "availability": {
-          "opened": true,
-          "nextOpenMessage": "",
-          "nextCloseMessage": "Closes soon"
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
         },
         "longDistanceEnabled": 0,
         "rainMode": "NONE",
         "thirdPartyAddress": false,
         "thirdPartyVendor": "",
-        "adTrackingID": "cid=5955184~p=1~eid=00000186-7f9a-3d63-2aec-9aff00c60127",
+        "adTrackingID": "cid=5996239~p=1~eid=00000186-8a2f-14a5-377f-8c2f00580122",
         "badges": {
-          "imageBased": [],
-          "textBased": [],
-          "textExtendedBadges": []
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
         },
-        "lastMileTravelString": "2.2 kms",
+        "lastMileTravelString": "1.2 kms",
         "hasSurge": false,
         "sla": {
-          "restaurantId": "195656",
-          "deliveryTime": 28,
-          "minDeliveryTime": 28,
-          "maxDeliveryTime": 28,
-          "lastMileTravel": 2.299999952316284,
-          "lastMileDistance": 0,
-          "serviceability": "SERVICEABLE",
-          "rainMode": "NONE",
-          "longDistance": "NOT_LONG_DISTANCE",
-          "preferentialService": false,
-          "iconType": "EMPTY"
+        "restaurantId": "601145",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "lastMileTravel": 1.2000000476837158,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
         },
         "promoted": true,
-        "avgRating": "4.0",
-        "totalRatings": 100,
+        "avgRating": "4.2",
+        "totalRatings": 50,
         "new": false
-      },
-      "subtype": "basic"
-    },
-    {
-      "type": "restaurant",
-      "data": {
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
         "type": "F",
         "id": "208641",
         "name": "Rajdhani Food Express",
@@ -252,21 +211,21 @@ const restrautList =  [
         "totalRatingsString": "100+ ratings",
         "cloudinaryImageId": "y5nxmki4st1cwp1fndmq",
         "cuisines": [
-          "Chinese",
-          "Continental",
-          "Indian"
+        "Chinese",
+        "Continental",
+        "Indian"
         ],
         "tags": [],
         "costForTwo": 25000,
         "costForTwoString": "₹250 FOR TWO",
-        "deliveryTime": 21,
-        "minDeliveryTime": 21,
-        "maxDeliveryTime": 21,
-        "slaString": "21 MINS",
+        "deliveryTime": 23,
+        "minDeliveryTime": 23,
+        "maxDeliveryTime": 23,
+        "slaString": "23 MINS",
         "lastMileTravel": 0.8999999761581421,
         "slugs": {
-          "restaurant": "rajdhani-food-express-lake-town-lake-town",
-          "city": "kolkata"
+        "restaurant": "rajdhani-food-express-lake-town-lake-town",
+        "city": "kolkata"
         },
         "cityState": "7",
         "address": "50 Shyamnagar Road, Santilaya Appartment Shop No-3, P.S- DumDum Kol-700055, District - North Twenty Four Parganas, STATE, West Bengal",
@@ -278,89 +237,89 @@ const restrautList =  [
         "favorite": false,
         "tradeCampaignHeaders": [],
         "aggregatedDiscountInfo": {
-          "header": "20% off",
-          "shortDescriptionList": [
-            {
-              "meta": "20% off on all orders",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            },
-            {
-              "meta": "Free Veg Soup on orders above ₹352",
-              "discountType": "Freebie",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "20% off on all orders",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            },
-            {
-              "meta": "Free Veg Soup on orders above ₹352",
-              "discountType": "Freebie",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
+        "header": "20% off",
+        "shortDescriptionList": [
+        {
+        "meta": "20% off on all orders",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        },
+        {
+        "meta": "Free Veg Soup on orders above ₹352",
+        "discountType": "Freebie",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "20% off on all orders",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        },
+        {
+        "meta": "Free Veg Soup on orders above ₹352",
+        "discountType": "Freebie",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
         },
         "aggregatedDiscountInfoV2": {
-          "header": "20% OFF",
-          "shortDescriptionList": [
-            {
-              "meta": "",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "20% off on all orders",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            },
-            {
-              "meta": "Free Veg Soup on orders above ₹352",
-              "discountType": "Freebie",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
+        "header": "20% OFF",
+        "shortDescriptionList": [
+        {
+        "meta": "",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "20% off on all orders",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        },
+        {
+        "meta": "Free Veg Soup on orders above ₹352",
+        "discountType": "Freebie",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
         },
         "chain": [],
         "feeDetails": {
-          "fees": [
-            {
-              "name": "distance",
-              "fee": 3200,
-              "message": ""
-            },
-            {
-              "name": "time",
-              "fee": 0,
-              "message": ""
-            },
-            {
-              "name": "special",
-              "fee": 0,
-              "message": ""
-            }
-          ],
-          "totalFees": 3200,
-          "message": "",
-          "title": "Delivery Charge",
-          "amount": "3200",
-          "icon": ""
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
         },
         "availability": {
-          "opened": true,
-          "nextOpenMessage": "",
-          "nextCloseMessage": ""
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
         },
         "longDistanceEnabled": 0,
         "rainMode": "NONE",
@@ -368,35 +327,35 @@ const restrautList =  [
         "thirdPartyVendor": "",
         "adTrackingID": "",
         "badges": {
-          "imageBased": [],
-          "textBased": [],
-          "textExtendedBadges": []
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
         },
         "lastMileTravelString": "0.8 kms",
         "hasSurge": false,
         "sla": {
-          "restaurantId": "208641",
-          "deliveryTime": 21,
-          "minDeliveryTime": 21,
-          "maxDeliveryTime": 21,
-          "lastMileTravel": 0.8999999761581421,
-          "lastMileDistance": 0,
-          "serviceability": "SERVICEABLE",
-          "rainMode": "NONE",
-          "longDistance": "NOT_LONG_DISTANCE",
-          "preferentialService": false,
-          "iconType": "EMPTY"
+        "restaurantId": "208641",
+        "deliveryTime": 23,
+        "minDeliveryTime": 23,
+        "maxDeliveryTime": 23,
+        "lastMileTravel": 0.8999999761581421,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
         },
         "promoted": false,
         "avgRating": "4.1",
         "totalRatings": 100,
         "new": false
-      },
-      "subtype": "basic"
-    },
-    {
-      "type": "restaurant",
-      "data": {
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
         "type": "F",
         "id": "242966",
         "name": "La Pino'z Pizza",
@@ -406,8 +365,8 @@ const restrautList =  [
         "totalRatingsString": "500+ ratings",
         "cloudinaryImageId": "vipohbpqczfrv6jnycwa",
         "cuisines": [
-          "Italian",
-          "Snacks"
+        "Italian",
+        "Snacks"
         ],
         "tags": [],
         "costForTwo": 25000,
@@ -418,8 +377,8 @@ const restrautList =  [
         "slaString": "27 MINS",
         "lastMileTravel": 6.400000095367432,
         "slugs": {
-          "restaurant": "la-pino'z-sector-v-salt-lake-sector-v-salt-lake",
-          "city": "kolkata"
+        "restaurant": "la-pino'z-sector-v-salt-lake-sector-v-salt-lake",
+        "city": "kolkata"
         },
         "cityState": "7",
         "address": "SHOP NO 3 GROUND FLOOR  NETGURU BUILDING  E2 4 BLOCK GP SECTOR V  SALT LAKE  BIDHANNAGAR  KOLKATA   700091",
@@ -431,115 +390,115 @@ const restrautList =  [
         "favorite": false,
         "tradeCampaignHeaders": [],
         "aggregatedDiscountInfo": {
-          "header": "40% off",
-          "shortDescriptionList": [
-            {
-              "meta": "40% off | Use TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "40% off up to ₹80 | Use code TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
+        "header": "40% off",
+        "shortDescriptionList": [
+        {
+        "meta": "40% off | Use TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "40% off up to ₹80 | Use code TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
         },
         "aggregatedDiscountInfoV2": {
-          "header": "40% OFF",
-          "shortDescriptionList": [
-            {
-              "meta": "Use TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "40% off up to ₹80 | Use code TRYNEW",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
+        "header": "40% OFF",
+        "shortDescriptionList": [
+        {
+        "meta": "Use TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "40% off up to ₹80 | Use code TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
         },
         "ribbon": [
-          {
-            "type": "PROMOTED"
-          }
+        {
+        "type": "PROMOTED"
+        }
         ],
         "chain": [],
         "feeDetails": {
-          "fees": [
-            {
-              "name": "distance",
-              "fee": 6100,
-              "message": ""
-            },
-            {
-              "name": "time",
-              "fee": 0,
-              "message": ""
-            },
-            {
-              "name": "special",
-              "fee": 0,
-              "message": ""
-            }
-          ],
-          "totalFees": 6100,
-          "message": "",
-          "title": "Delivery Charge",
-          "amount": "6100",
-          "icon": ""
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 6100,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 6100,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "6100",
+        "icon": ""
         },
         "availability": {
-          "opened": true,
-          "nextOpenMessage": "",
-          "nextCloseMessage": ""
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
         },
         "longDistanceEnabled": 0,
         "rainMode": "NONE",
         "thirdPartyAddress": false,
         "thirdPartyVendor": "",
-        "adTrackingID": "cid=5976611~p=25~eid=00000186-7f9a-3d63-2aec-9b0700c61977",
+        "adTrackingID": "cid=5998238~p=16~eid=00000186-8a2f-14a5-377f-8c340058100f",
         "badges": {
-          "imageBased": [],
-          "textBased": [],
-          "textExtendedBadges": []
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
         },
         "lastMileTravelString": "6.4 kms",
         "hasSurge": false,
         "sla": {
-          "restaurantId": "242966",
-          "deliveryTime": 27,
-          "minDeliveryTime": 27,
-          "maxDeliveryTime": 27,
-          "lastMileTravel": 6.400000095367432,
-          "lastMileDistance": 0,
-          "serviceability": "SERVICEABLE",
-          "rainMode": "NONE",
-          "longDistance": "NOT_LONG_DISTANCE",
-          "preferentialService": false,
-          "iconType": "EMPTY"
+        "restaurantId": "242966",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "lastMileTravel": 6.400000095367432,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
         },
         "promoted": true,
         "avgRating": "3.8",
         "totalRatings": 500,
         "new": false
-      },
-      "subtype": "basic"
-    },
-    {
-      "type": "restaurant",
-      "data": {
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
         "type": "F",
         "id": "423589",
         "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
@@ -549,21 +508,21 @@ const restrautList =  [
         "totalRatingsString": "50+ ratings",
         "cloudinaryImageId": "zkvw5xxee1xijqsz7itb",
         "cuisines": [
-          "Desserts",
-          "Ice Cream",
-          "Ice Cream Cakes"
+        "Desserts",
+        "Ice Cream",
+        "Ice Cream Cakes"
         ],
         "tags": [],
         "costForTwo": 30000,
         "costForTwoString": "₹300 FOR TWO",
-        "deliveryTime": 11,
-        "minDeliveryTime": 11,
-        "maxDeliveryTime": 11,
-        "slaString": "11 MINS",
+        "deliveryTime": 13,
+        "minDeliveryTime": 13,
+        "maxDeliveryTime": 13,
+        "slaString": "13 MINS",
         "lastMileTravel": 0,
         "slugs": {
-          "restaurant": "kwality-walls-frozen-dessert-and-ice-cream-shop-rajarhat-rajarhat",
-          "city": "kolkata"
+        "restaurant": "kwality-walls-frozen-dessert-and-ice-cream-shop-rajarhat-rajarhat",
+        "city": "kolkata"
         },
         "cityState": "7",
         "address": "AKHENE KHABO: DIBYEDU SRIMANY, 2 NEW ROAD, BAGUIATI, DESHBANDHU NAGAR, RAJARHAT GOPALPUR, WARD NO-10, NORTH 24 PARGANAS, WEST BENGAL-700059",
@@ -574,112 +533,593 @@ const restrautList =  [
         "select": false,
         "favorite": false,
         "tradeCampaignHeaders": [],
-        "aggregatedDiscountInfo": {
-          "header": "40% off",
-          "shortDescriptionList": [
-            {
-              "meta": "40% off | Use SWIGGYIT",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "40% off up to ₹80 | Use code SWIGGYIT",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
-        },
-        "aggregatedDiscountInfoV2": {
-          "header": "40% OFF",
-          "shortDescriptionList": [
-            {
-              "meta": "Use SWIGGYIT",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "descriptionList": [
-            {
-              "meta": "40% off up to ₹80 | Use code SWIGGYIT",
-              "discountType": "Percentage",
-              "operationType": "RESTAURANT"
-            }
-          ],
-          "subHeader": "",
-          "headerType": 0,
-          "superFreedel": ""
-        },
         "ribbon": [
-          {
-            "type": "PROMOTED"
-          }
+        {
+        "type": "PROMOTED"
+        }
         ],
         "chain": [],
         "feeDetails": {
-          "fees": [
-            {
-              "name": "distance",
-              "fee": 3200,
-              "message": ""
-            },
-            {
-              "name": "time",
-              "fee": 0,
-              "message": ""
-            },
-            {
-              "name": "special",
-              "fee": 0,
-              "message": ""
-            }
-          ],
-          "totalFees": 3200,
-          "message": "",
-          "title": "Delivery Charge",
-          "amount": "3200",
-          "icon": ""
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
         },
         "availability": {
-          "opened": true,
-          "nextOpenMessage": "",
-          "nextCloseMessage": ""
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
         },
         "longDistanceEnabled": 0,
         "rainMode": "NONE",
         "thirdPartyAddress": false,
         "thirdPartyVendor": "",
-        "adTrackingID": "cid=5958025~p=4~eid=00000186-7f9a-3d63-2aec-9b0000c6040f",
+        "adTrackingID": "cid=5958025~p=4~eid=00000186-8a2f-14a5-377f-8c3000580406",
         "badges": {
-          "imageBased": [],
-          "textBased": [],
-          "textExtendedBadges": []
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
         },
         "hasSurge": false,
         "sla": {
-          "restaurantId": "423589",
-          "deliveryTime": 11,
-          "minDeliveryTime": 11,
-          "maxDeliveryTime": 11,
-          "lastMileTravel": 0,
-          "lastMileDistance": 0,
-          "serviceability": "SERVICEABLE",
-          "rainMode": "NONE",
-          "longDistance": "NOT_LONG_DISTANCE",
-          "preferentialService": false,
-          "iconType": "EMPTY"
+        "restaurantId": "423589",
+        "deliveryTime": 13,
+        "minDeliveryTime": 13,
+        "maxDeliveryTime": 13,
+        "lastMileTravel": 0,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
         },
         "promoted": true,
-        "avgRating": "4.4",
+        "avgRating": "4.3",
         "totalRatings": 50,
         "new": false
-      },
-      "subtype": "basic"
-    }
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "135333",
+        "name": "Bangaliyna",
+        "uuid": "32c4751f-48e5-438b-beaa-ff1522577fd4",
+        "city": "7",
+        "area": "Kestopur",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "olemrblkkyg4slrsufvy",
+        "cuisines": [
+        "North Indian",
+        "Chinese",
+        "Biryani",
+        "Bengali"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "slaString": "29 MINS",
+        "lastMileTravel": 1.899999976158142,
+        "slugs": {
+        "restaurant": "maa-tara-food-corner-hanapara-kestopur",
+        "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "BH- 6, Kestopur hanapara ( nea life care medical hall) ",
+        "locality": "Kestopur",
+        "parentId": 41275,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+        "header": "60% off",
+        "shortDescriptionList": [
+        {
+        "meta": "60% off | Use LNBINGE",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "60% off up to ₹120 | Use code LNBINGE",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+        "header": "60% OFF",
+        "shortDescriptionList": [
+        {
+        "meta": "Use LNBINGE",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "60% off up to ₹120 | Use code LNBINGE",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1.8 kms",
+        "hasSurge": false,
+        "sla": {
+        "restaurantId": "135333",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "lastMileTravel": 1.899999976158142,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.7",
+        "totalRatings": 1000,
+        "new": false
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "396435",
+        "name": "Pizza Hut",
+        "uuid": "21f5e99d-6281-49d6-8f54-70b8a182e195",
+        "city": "7",
+        "area": "Dumdum",
+        "totalRatingsString": "500+ ratings",
+        "cloudinaryImageId": "qkxnitvm6vc3psnja9dp",
+        "cuisines": [
+        "Pizzas"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 32,
+        "minDeliveryTime": 30,
+        "maxDeliveryTime": 40,
+        "slaString": "30-40 MINS",
+        "lastMileTravel": 2.200000047683716,
+        "slugs": {
+        "restaurant": "pizza-hut-nager-bazar-kolkata-dumdum",
+        "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "Pizza Hut, Aangan Commercial Unit No-104, Ground Floor, 14 Dum Dum Road, Police Station Dum Dum-700074",
+        "locality": "Nager Bazar Kolkata",
+        "parentId": 721,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+        {
+        "meta": "20% off | Use SWIGGYIT",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "20% off up to ₹50 | Use code SWIGGYIT",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+        {
+        "meta": "Use SWIGGYIT",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "20% off up to ₹50 | Use code SWIGGYIT",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.2 kms",
+        "hasSurge": false,
+        "sla": {
+        "restaurantId": "396435",
+        "deliveryTime": 32,
+        "minDeliveryTime": 30,
+        "maxDeliveryTime": 40,
+        "lastMileTravel": 2.200000047683716,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 500,
+        "new": false
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "678892",
+        "name": "Star Food Express",
+        "uuid": "ca6135af-0d31-4af6-bb9a-7ab7f54ad28f",
+        "city": "7",
+        "area": "Chinar Park",
+        "totalRatingsString": "Too Few Ratings",
+        "cloudinaryImageId": "ac5e720e85541abe2cc5c10a3745e669",
+        "cuisines": [
+        "Burgers",
+        "Chinese",
+        "Pizzas"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 34,
+        "minDeliveryTime": 34,
+        "maxDeliveryTime": 34,
+        "slaString": "34 MINS",
+        "lastMileTravel": 2.799999952316284,
+        "slugs": {
+        "restaurant": "star-food-express-chinar-park-chinar-park",
+        "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "PO+VILL ARJUNPUR EAST, LP 119/6/2, WARD NO-14, BIDHANNAGAR-RAJARHAT MUNICIPAL CORPORATION, North Twenty Four Parganas, West Bengal - 700059",
+        "locality": "Bidhannagar",
+        "parentId": 405814,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+        {
+        "type": "PROMOTED"
+        }
+        ],
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=5988439~p=7~eid=00000186-8a2f-14a5-377f-8c3100580736",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.7 kms",
+        "hasSurge": false,
+        "sla": {
+        "restaurantId": "678892",
+        "deliveryTime": 34,
+        "minDeliveryTime": 34,
+        "maxDeliveryTime": 34,
+        "lastMileTravel": 2.799999952316284,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "--",
+        "totalRatings": 0,
+        "new": true
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "565707",
+        "name": "Kolkata@99",
+        "uuid": "27119f07-7415-4632-a208-58c57de91ee5",
+        "city": "7",
+        "area": "Rajarhat",
+        "totalRatingsString": "Too Few Ratings",
+        "cloudinaryImageId": "kryot10xvvr6x7hymkbg",
+        "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Snacks",
+        "Beverages"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "slaString": "29 MINS",
+        "lastMileTravel": 2.9000000953674316,
+        "slugs": {
+        "restaurant": "kolkata-99-lake-town-lake-town",
+        "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "16/352,JYANGRA,SUKANTA PALLY, P.S.BAGUIATI,KOLKATA - 700059, WARD NO-13, BIDHANNAGAR-RAJARHAT MUNICIPAL CORPORATION, North Twenty Four Parganas, West Bengal - 700059",
+        "locality": "Lake Town",
+        "parentId": 120048,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+        {
+        "meta": "20% off | Use TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "20% off up to ₹50 | Use code TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+        {
+        "meta": "Use TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "20% off up to ₹50 | Use code TRYNEW",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3200,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3200,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3200",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.9 kms",
+        "hasSurge": false,
+        "sla": {
+        "restaurantId": "565707",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "lastMileTravel": 2.9000000953674316,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "--",
+        "totalRatings": 0,
+        "new": false
+        },
+        "subtype": "basic"
+        }
 ];
 
 const RestrauntCard = ({ cloudinaryImageId, name, cuisines, lastMileTravelString }) => {
@@ -710,8 +1150,20 @@ const Body = () => {
 };
 
 const Footer = () => {
-    return <h4>Footer</h4>
-};
+    return (
+      <div className="footer">
+        Created By
+        <i class="fa-solid fa-heart"></i>
+        <a href="https://www.linkedin.com/in/abhijoy-samaddar-825ba4118/" target="_blank">
+          Abhijoy Samaddar
+        </a>
+        <i class="fa-solid fa-copyright"></i>2023
+        <strong>
+          Food<span>Fire</span>
+        </strong>
+      </div>
+    );
+  };
 
 const Applayout = () => {
     return (
