@@ -1157,7 +1157,7 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/abhijoy-samaddar-825ba4118/" target="_blank">
           Abhijoy Samaddar
         </a>
-        <i class="fa-solid fa-copyright"></i>2023
+        <i class="fa-solid fa-copyright"></i>2023 East Bengal
         <strong>
           Food<span>Fire</span>
         </strong>
